@@ -1,5 +1,5 @@
 # frontend-wesbos-javascript-30
-Frontend Wesbos exercises. Javascript 30 course. Avalailable 
+Frontend Wesbos exercises. Javascript 30 course. Avalailable in https://naldorck01.github.io/frontend-wesbos-javascript-30/
 
 # Commands
 <table>
@@ -18,7 +18,7 @@ Frontend Wesbos exercises. Javascript 30 course. Avalailable
 </table>
 
 # Authors
-Naldo Duran
+- Naldo Duran
 
 # License
 This project is licensed under the MIT License - see the LICENSE.md file for details
